@@ -75,7 +75,7 @@ This folder gives some basic examples of scripts to execute under a given framew
 
 This folder includes important source codes for the projects on actual industrial applications such as visual defect detection of manufactured products using CNN, coal mine gas level predictions at various locations using LSTM, or speech detection for different dialects using LSTM and CNN, etc.
 
-These applications are very important for this big project. They are the sub-projects that this framework is built for. For each of these applications, the model will continuously be updated and developed by the community through the DBC distributed computing network. As time goes on, new applications will be added. We, along with the community, will continuously expand our application scope and build useful models for every industry.
+These applications are very important for this big complicated project. each of the application is a sub-projects that this framework is built for. For each of these applications, the model will continuously be updated and developed by the community through the DBC distributed computing network. As time goes on, new applications will be added. We, along with the community, will continuously expand our application scope and develop more useful models for every industry.
 <br/><br/>
 
 # Please contribute
